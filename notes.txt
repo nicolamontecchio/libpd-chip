@@ -1,0 +1,5 @@
+
+flash 4.4 headless kernel; uname -a should give something like this:
+> Linux chip 4.4.13-ntc-mlc #1 SMP Tue Dec 6 21:38:00 UTC 2016 armv7l GNU/Linux
+
+sudo apt-get install build-essential    # gcc, make ...
