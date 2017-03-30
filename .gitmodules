@@ -3,4 +3,4 @@
 	url = git@github.com:libpd/libpd.git
 [submodule "portaudio"]
 	path = portaudio
-	url = https://git.assembla.com/portaudio.git
+	url = git://git.assembla.com/portaudio.git
