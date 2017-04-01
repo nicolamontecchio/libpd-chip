@@ -20,6 +20,5 @@ then build the code; portaudio will pick up ALSA as the default backend
 
 ## running
 
-    LD_LIBRARY_PATH=../../portaudio/lib/.libs/ ./pdtest test.pd .
-
-or run `make install` in `/portaudio`, then it's just `./pdtest test.pd`
+	sudo apt-get install libportaudio2
+	./pdtest test.pd .
